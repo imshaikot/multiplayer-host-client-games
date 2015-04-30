@@ -2,8 +2,10 @@ function loadCards() {
   var xhr = new XMLHttpRequest();
   xhr.open('GET', '/cards', true);
   xhr.onload = function() {
+    if (xhr.status != 200) { return; }
     var data = JSON.parse(xhr.responseText);
     var box = document.getElementById('cards');
+    box.innerHTML = '';
     for (var i = 0; i < data.white.length; i++) {
       var d = document.createElement('div');
       d.className = 'card';
