@@ -1,3 +1,9 @@
+var Card = React.createClass({
+  render: function() {
+    return <div className="card">{this.props.text}</div>;
+  }
+});
+
 var App = React.createClass({
   getInitialState: function() {
     return { white: [] };
@@ -14,7 +20,7 @@ var App = React.createClass({
   },
   render: function() {
     var cards = this.state.white.map(function(c, i) {
-      return <div className="card" key={i}>{c}</div>;
+      return <Card text={c} key={i} />;
     });
     return <div>{cards}</div>;
   }
