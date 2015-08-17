@@ -1,6 +1,7 @@
 var Card = React.createClass({
   render: function() {
-    return <div className="card">{this.props.text}</div>;
+    var cls = this.props.black ? "card black" : "card";
+    return <div className={cls}>{this.props.text}</div>;
   }
 });
 
