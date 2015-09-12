@@ -1,7 +1,7 @@
 var Card = React.createClass({
   render: function() {
     var cls = this.props.black ? "card black" : "card";
-    return <div className={cls}>{this.props.text}</div>;
+    return <div className={cls} onClick={this.props.onPick}>{this.props.text}</div>;
   }
 });
 
@@ -14,9 +14,24 @@ var PlayerList = React.createClass({
   }
 });
 
+var Board = React.createClass({
+  render: function() {
+    var self = this;
+    var cards = this.props.white.map(function(c, i) {
+      return <Card text={c} key={i} onPick={function(){ self.props.onPick(i); }} />;
+    });
+    return (
+      <div className="board">
+        <Card text={this.props.black} black={true} />
+        <div className="hand">{cards}</div>
+      </div>
+    );
+  }
+});
+
 var App = React.createClass({
   getInitialState: function() {
-    return { white: [], players: ["ami", "tumi"] };
+    return { white: [], black: "", players: ["ami", "tumi"] };
   },
   componentDidMount: function() {
     var self = this;
@@ -24,18 +39,18 @@ var App = React.createClass({
     xhr.open('GET', '/cards', true);
     xhr.onload = function() {
       var data = JSON.parse(xhr.responseText);
-      self.setState({ white: data.white });
+      self.setState({ white: data.white, black: data.black[0] });
     };
     xhr.send();
   },
+  pick: function(i) {
+    alert("picked " + this.state.white[i]);
+  },
   render: function() {
-    var cards = this.state.white.map(function(c, i) {
-      return <Card text={c} key={i} />;
-    });
     return (
       <div>
         <PlayerList players={this.state.players} />
-        <div>{cards}</div>
+        <Board white={this.state.white} black={this.state.black} onPick={this.pick} />
       </div>
     );
   }
