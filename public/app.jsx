@@ -7,7 +7,8 @@ var Card = React.createClass({
 
 var Scoreboard = React.createClass({
   render: function() {
-    var rows = this.props.players.map(function(p, i) {
+    var sorted = this.props.players.slice().sort(function(a, b){ return b.score - a.score; });
+    var rows = sorted.map(function(p, i) {
       return <li key={i}>{p.name} - {p.score}</li>;
     });
     return <ul className="scores">{rows}</ul>;
