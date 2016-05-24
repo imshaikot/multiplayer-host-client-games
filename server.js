@@ -1,6 +1,7 @@
 var express = require('express');
 var http = require('http');
 var fs = require('fs');
+var rooms = require('./lib/rooms');
 var app = express();
 var server = http.createServer(app);
 var io = require('socket.io')(server);
@@ -17,10 +18,12 @@ app.get('/cards', function(req, res){
 });
 
 io.on('connection', function(socket){
-  console.log('a user connected');
-  socket.on('disconnect', function(){
-    console.log('user disconnected');
+  socket.on('create', function(cb){
+    var room = rooms.createRoom();
+    socket.join(room.code);
+    cb(room.code);
   });
+  socket.on('disconnect', function(){});
 });
 
 server.listen(3000);
