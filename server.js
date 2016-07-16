@@ -23,6 +23,13 @@ io.on('connection', function(socket){
     socket.join(room.code);
     cb(room.code);
   });
+  socket.on('join', function(data, cb){
+    var room = rooms.joinRoom(data.code, data.name, socket.id);
+    if (!room) { cb({ error: 'no room' }); return; }
+    socket.join(room.code);
+    io.to(room.code).emit('players', room.players);
+    cb({ ok: true });
+  });
   socket.on('disconnect', function(){});
 });
 

@@ -1,30 +1,21 @@
-var Card = React.createClass({
-  render: function() {
-    var cls = this.props.black ? "card black" : "card";
-    return <div className={cls} onClick={this.props.onPick}>{this.props.text}</div>;
-  }
-});
+var socket = io();
 
-var Scoreboard = React.createClass({
-  render: function() {
-    var sorted = this.props.players.slice().sort(function(a, b){ return b.score - a.score; });
-    var rows = sorted.map(function(p, i) {
-      return <li key={i}>{p.name} - {p.score}</li>;
+var Join = React.createClass({
+  getInitialState: function() {
+    return { code: '', name: '' };
+  },
+  join: function() {
+    socket.emit('join', { code: this.state.code, name: this.state.name }, function(res){
+      if (res.error) { alert(res.error); }
     });
-    return <ul className="scores">{rows}</ul>;
-  }
-});
-
-var Board = React.createClass({
+  },
   render: function() {
     var self = this;
-    var cards = this.props.white.map(function(c, i) {
-      return <Card text={c} key={i} onPick={function(){ self.props.onPick(i); }} />;
-    });
     return (
-      <div className="board">
-        <Card text={this.props.black} black={true} />
-        <div className="hand">{cards}</div>
+      <div>
+        <input placeholder="code" onChange={function(e){ self.setState({code: e.target.value}); }} />
+        <input placeholder="name" onChange={function(e){ self.setState({name: e.target.value}); }} />
+        <button onClick={this.join}>join</button>
       </div>
     );
   }
@@ -32,28 +23,22 @@ var Board = React.createClass({
 
 var App = React.createClass({
   getInitialState: function() {
-    return { white: [], black: "", players: [{name:"ami",score:0},{name:"tumi",score:0}] };
+    return { players: [] };
   },
   componentDidMount: function() {
     var self = this;
-    var xhr = new XMLHttpRequest();
-    xhr.open('GET', '/cards', true);
-    xhr.onload = function() {
-      var data = JSON.parse(xhr.responseText);
-      self.setState({ white: data.white, black: data.black[0] });
-    };
-    xhr.send();
-  },
-  pick: function(i) {
-    var players = this.state.players;
-    players[0].score = players[0].score + 1;
-    this.setState({ players: players });
+    socket.on('players', function(players){
+      self.setState({ players: players });
+    });
   },
   render: function() {
+    var rows = this.state.players.map(function(p, i){
+      return <li key={i}>{p.name}</li>;
+    });
     return (
       <div>
-        <Scoreboard players={this.state.players} />
-        <Board white={this.state.white} black={this.state.black} onPick={this.pick} />
+        <Join />
+        <ul>{rows}</ul>
       </div>
     );
   }
