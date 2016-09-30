@@ -2,6 +2,7 @@ var express = require('express');
 var http = require('http');
 var fs = require('fs');
 var rooms = require('./lib/rooms');
+var game = require('./lib/game');
 var app = express();
 var server = http.createServer(app);
 var io = require('socket.io')(server);
@@ -10,11 +11,6 @@ app.use(express.static(__dirname + '/public'));
 
 app.get('/', function(req, res){
   res.sendfile(__dirname + '/public/index.html');
-});
-
-app.get('/cards', function(req, res){
-  var data = fs.readFileSync(__dirname + '/cards.json');
-  res.send(data);
 });
 
 io.on('connection', function(socket){
@@ -29,6 +25,18 @@ io.on('connection', function(socket){
     socket.join(room.code);
     io.to(room.code).emit('players', room.players);
     cb({ ok: true });
+  });
+  socket.on('start', function(code){
+    var room = rooms.getRoom(code);
+    game.newRound(room);
+    io.to(code).emit('round', { black: room.black });
+  });
+  socket.on('submit', function(data){
+    var room = rooms.getRoom(data.code);
+    game.submit(room, socket.id, data.card);
+    if (room.phase === 'judging') {
+      io.to(data.code).emit('judging', room.played);
+    }
   });
   socket.on('disconnect', function(){});
 });
