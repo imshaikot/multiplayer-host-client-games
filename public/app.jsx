@@ -1,44 +1,29 @@
 var socket = io();
 
-var Join = React.createClass({
-  getInitialState: function() {
-    return { code: '', name: '' };
-  },
-  join: function() {
-    socket.emit('join', { code: this.state.code, name: this.state.name }, function(res){
-      if (res.error) { alert(res.error); }
-    });
-  },
+var Scoreboard = React.createClass({
   render: function() {
-    var self = this;
-    return (
-      <div>
-        <input placeholder="code" onChange={function(e){ self.setState({code: e.target.value}); }} />
-        <input placeholder="name" onChange={function(e){ self.setState({name: e.target.value}); }} />
-        <button onClick={this.join}>join</button>
-      </div>
-    );
+    var rows = this.props.players.map(function(p, i){
+      return <li key={i}>{p.name} - {p.score}</li>;
+    });
+    return <ul className="scores">{rows}</ul>;
   }
 });
 
 var App = React.createClass({
   getInitialState: function() {
-    return { players: [] };
+    return { players: [], black: '' };
   },
   componentDidMount: function() {
     var self = this;
-    socket.on('players', function(players){
-      self.setState({ players: players });
-    });
+    socket.on('players', function(players){ self.setState({ players: players }); });
+    socket.on('round', function(data){ self.setState({ black: data.black }); });
+    socket.on('scores', function(players){ self.setState({ players: players }); });
   },
   render: function() {
-    var rows = this.state.players.map(function(p, i){
-      return <li key={i}>{p.name}</li>;
-    });
     return (
       <div>
-        <Join />
-        <ul>{rows}</ul>
+        <div className="card black">{this.state.black}</div>
+        <Scoreboard players={this.state.players} />
       </div>
     );
   }
