@@ -38,7 +38,18 @@ io.on('connection', function(socket){
       io.to(data.code).emit('judging', room.played);
     }
   });
-  socket.on('disconnect', function(){});
+  socket.on('pick', function(data){
+    var room = rooms.getRoom(data.code);
+    game.pickWinner(room, data.id);
+    io.to(data.code).emit('scores', game.scores(room));
+  });
+  socket.on('disconnect', function(){
+    for (var code in rooms.rooms) {
+      var room = rooms.rooms[code];
+      room.players = room.players.filter(function(p){ return p.id !== socket.id; });
+      io.to(code).emit('players', room.players);
+    }
+  });
 });
 
 server.listen(3000);
