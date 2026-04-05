@@ -1,0 +1,437 @@
+{
+  "_comment": "Ja Nach word bank. word = exact noun guessers type; modifier = optional absurd prompt extension shown to drawer only; aliases = legitimate alternate spellings/names >1 edit away from `word`, accepted at FULL points (closer slips are caught automatically by the Levenshtein matcher); typos = common spelling MISTAKES, also accepted but always counted as a `close` hit so they earn reduced points. Mix target: ~25% Bangladeshi-context (food/places/icons/daily life) + ~75% universal. Visual draw potential > vocabulary breadth — heavy on animals, food, daily objects.",
+  "words": [
+    {
+      "word": "octopus",
+      "typos": [
+        "octapuss"
+      ],
+      "modifier": "playing piano"
+    },
+    {
+      "word": "elephant",
+      "typos": [
+        "elefant"
+      ],
+      "modifier": "on a skateboard"
+    },
+    {
+      "word": "cat",
+      "modifier": "wearing sunglasses"
+    },
+    {
+      "word": "dog",
+      "modifier": "as a lawyer"
+    },
+    {
+      "word": "penguin",
+      "typos": [
+        "pengiun"
+      ],
+      "modifier": "in a hot tub"
+    },
+    {
+      "word": "shark",
+      "modifier": "eating ice cream"
+    },
+    {
+      "word": "monkey",
+      "modifier": "doing yoga"
+    },
+    {
+      "word": "turtle",
+      "modifier": "in a wedding dress"
+    },
+    {
+      "word": "giraffe",
+      "typos": [
+        "giraf",
+        "jiraffe"
+      ],
+      "modifier": "stuck in an elevator"
+    },
+    {
+      "word": "panda",
+      "modifier": "as a security guard"
+    },
+    {
+      "word": "owl",
+      "modifier": "studying for exams"
+    },
+    {
+      "word": "frog",
+      "modifier": "selling life insurance"
+    },
+    {
+      "word": "snake",
+      "modifier": "knitting a scarf"
+    },
+    {
+      "word": "bear",
+      "modifier": "doing taxes"
+    },
+    {
+      "word": "rabbit",
+      "modifier": "driving a tank"
+    },
+    {
+      "word": "lion",
+      "modifier": "running a daycare"
+    },
+    {
+      "word": "zebra",
+      "modifier": "at a barbershop"
+    },
+    {
+      "word": "kangaroo",
+      "typos": [
+        "kangaru"
+      ],
+      "modifier": "delivering pizza"
+    },
+    {
+      "word": "koala",
+      "modifier": "in a boxing ring"
+    },
+    {
+      "word": "hippo",
+      "modifier": "doing ballet",
+      "aliases": [
+        "hippopotamus"
+      ]
+    },
+    {
+      "word": "rhino",
+      "modifier": "with stage fright",
+      "aliases": [
+        "rhinoceros"
+      ]
+    },
+    {
+      "word": "fox",
+      "modifier": "running for mayor"
+    },
+    {
+      "word": "wolf",
+      "modifier": "leading a book club"
+    },
+    {
+      "word": "deer",
+      "modifier": "stuck in traffic"
+    },
+    {
+      "word": "squirrel",
+      "typos": [
+        "squirl",
+        "skwirrel"
+      ],
+      "modifier": "as a stockbroker"
+    },
+    {
+      "word": "raccoon",
+      "typos": [
+        "racon"
+      ],
+      "modifier": "robbing a bank"
+    },
+    {
+      "word": "hedgehog",
+      "typos": [
+        "hejhog"
+      ],
+      "modifier": "doing makeup"
+    },
+    {
+      "word": "hamster",
+      "modifier": "lifting weights"
+    },
+    {
+      "word": "mouse",
+      "modifier": "as a detective"
+    },
+    {
+      "word": "rat",
+      "modifier": "DJing a party"
+    },
+    {
+      "word": "hen",
+      "modifier": "filing a complaint"
+    },
+    {
+      "word": "rooster",
+      "modifier": "playing the violin"
+    },
+    {
+      "word": "duck",
+      "modifier": "as a tour guide"
+    },
+    {
+      "word": "swan",
+      "modifier": "drinking coffee"
+    },
+    {
+      "word": "peacock",
+      "modifier": "having a fashion show"
+    },
+    {
+      "word": "parrot",
+      "modifier": "in jail"
+    },
+    {
+      "word": "eagle",
+      "modifier": "delivering mail"
+    },
+    {
+      "word": "hawk",
+      "modifier": "at the dentist"
+    },
+    {
+      "word": "vulture",
+      "typos": [
+        "vultcher"
+      ],
+      "modifier": "at a job interview"
+    },
+    {
+      "word": "pigeon",
+      "modifier": "as a doorman"
+    },
+    {
+      "word": "sparrow",
+      "modifier": "playing chess"
+    },
+    {
+      "word": "flamingo",
+      "modifier": "doing taekwondo"
+    },
+    {
+      "word": "ostrich",
+      "typos": [
+        "austrich"
+      ],
+      "modifier": "as a librarian"
+    },
+    {
+      "word": "butterfly",
+      "typos": [
+        "buttrfly"
+      ],
+      "modifier": "lifting weights"
+    },
+    {
+      "word": "bee",
+      "modifier": "in court"
+    },
+    {
+      "word": "ant",
+      "modifier": "running a marathon"
+    },
+    {
+      "word": "spider",
+      "modifier": "as a barista"
+    },
+    {
+      "word": "scorpion",
+      "typos": [
+        "scropion"
+      ],
+      "modifier": "playing the harp"
+    },
+    {
+      "word": "crab",
+      "modifier": "in tap shoes"
+    },
+    {
+      "word": "lobster",
+      "modifier": "having a midlife crisis"
+    },
+    {
+      "word": "jellyfish",
+      "typos": [
+        "jelifish"
+      ],
+      "modifier": "on a unicycle"
+    },
+    {
+      "word": "whale",
+      "modifier": "playing the flute"
+    },
+    {
+      "word": "dolphin",
+      "modifier": "doing accounting"
+    },
+    {
+      "word": "seal",
+      "modifier": "performing surgery"
+    },
+    {
+      "word": "walrus",
+      "modifier": "as a wedding singer"
+    },
+    {
+      "word": "starfish",
+      "modifier": "in a courtroom"
+    },
+    {
+      "word": "snail",
+      "modifier": "winning a race"
+    },
+    {
+      "word": "lizard",
+      "modifier": "in a business meeting"
+    },
+    {
+      "word": "gecko",
+      "modifier": "as a yoga instructor"
+    },
+    {
+      "word": "chameleon",
+      "typos": [
+        "camelon",
+        "kameleon"
+      ],
+      "modifier": "lost in a shopping mall"
+    },
+    {
+      "word": "crocodile",
+      "typos": [
+        "crocodial"
+      ],
+      "modifier": "wearing a tutu"
+    },
+    {
+      "word": "dinosaur",
+      "typos": [
+        "dinosor"
+      ],
+      "modifier": "ordering takeout"
+    },
+    {
+      "word": "sloth",
+      "modifier": "rushing to the airport"
+    },
+    {
+      "word": "beaver",
+      "modifier": "as an architect"
+    },
+    {
+      "word": "otter",
+      "modifier": "stealing a car"
+    },
+    {
+      "word": "gorilla",
+      "modifier": "in a ballet recital"
+    },
+    {
+      "word": "donkey",
+      "modifier": "giving a TED talk"
+    },
+    {
+      "word": "horse",
+      "modifier": "writing a novel"
+    },
+    {
+      "word": "cow",
+      "modifier": "running for office"
+    },
+    {
+      "word": "sheep",
+      "modifier": "as a getaway driver"
+    },
+    {
+      "word": "pig",
+      "modifier": "as a sommelier"
+    },
+    {
+      "word": "buffalo",
+      "modifier": "at a wedding"
+    },
+    {
+      "word": "mosquito",
+      "typos": [
+        "moskito"
+      ],
+      "modifier": "in therapy"
+    },
+    {
+      "word": "dragon",
+      "modifier": "at a tea party"
+    },
+    {
+      "word": "unicorn",
+      "modifier": "in jail"
+    },
+    {
+      "word": "tiger",
+      "modifier": "as a barista"
+    },
+    {
+      "word": "crow",
+      "modifier": "doing accounting"
+    },
+    {
+      "word": "goat",
+      "modifier": "running a startup"
+    },
+    {
+      "word": "ladybug",
+      "modifier": "lost in space"
+    },
+    {
+      "word": "caterpillar",
+      "typos": [
+        "catapilar"
+      ],
+      "modifier": "training for a marathon"
+    },
+    {
+      "word": "bat",
+      "modifier": "as a yoga instructor"
+    },
+    {
+      "word": "pizza",
+      "modifier": "doing parkour"
+    },
+    {
+      "word": "burger",
+      "modifier": "in love"
+    },
+    {
+      "word": "banana",
+      "modifier": "running a marathon"
+    },
+    {
+      "word": "donut",
+      "modifier": "as a king",
+      "aliases": [
+        "doughnut"
+      ]
+    },
+    {
+      "word": "coffee",
+      "modifier": "having a midlife crisis"
+    },
+    {
+      "word": "sandwich",
+      "modifier": "at the beach"
+    },
+    {
+      "word": "icecream",
+      "modifier": "on fire",
+      "aliases": [
+        "ice cream"
+      ]
+    },
+    {
+      "word": "noodles",
+      "modifier": "in a fight"
+    },
+    {
+      "word": "biriyani",
+      "modifier": "on a motorcycle",
+      "aliases": [
+        "biryani"
+      ]
+    }
+  ]
+}
