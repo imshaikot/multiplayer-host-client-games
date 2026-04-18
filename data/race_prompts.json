@@ -1,0 +1,125 @@
+{
+  "_comment": "Race game (আঙুলের দৌড়) prompts. Banglish (Bangla transliterated in Latin alphabet) phrases — must be funny FIRST so people laugh before typing. Strict case-sensitive equality on the server (server trims trailing whitespace only; everything else is exact). Score is precomputed per prompt using: clamp(round(length/5 + words*0.5 + special_chars*0.4), 3, 15). Special_chars counts uppercase + punctuation. Mix target: ~30% food, ~25% in-laws/family, ~20% Dhaka life, ~15% politics (gentle satire), ~10% misc. Add new prompts by hand-applying the formula above; don't auto-compute at runtime.",
+  "prompts": [
+    {
+      "text": "Kach kolar bora",
+      "score": 5
+    },
+    {
+      "text": "Borokhalar boka chele",
+      "score": 6
+    },
+    {
+      "text": "Shashurir panta vater khichuri",
+      "score": 8
+    },
+    {
+      "text": "Mama bashar gopon achar",
+      "score": 7
+    },
+    {
+      "text": "Hilsher matha r dim",
+      "score": 5
+    },
+    {
+      "text": "Jhal muri",
+      "score": 3
+    },
+    {
+      "text": "Panta bhat",
+      "score": 3
+    },
+    {
+      "text": "Kacchi biriyani",
+      "score": 4
+    },
+    {
+      "text": "Doi r mishti",
+      "score": 4
+    },
+    {
+      "text": "Cha er dokan",
+      "score": 4
+    },
+    {
+      "text": "Dudh cha kheye toke guli kore dibo",
+      "score": 8
+    },
+    {
+      "text": "Rui mach diye jhalmuri",
+      "score": 5
+    },
+    {
+      "text": "Phuchka tok pani",
+      "score": 5
+    },
+    {
+      "text": "Eider shemai chini chara",
+      "score": 7
+    },
+    {
+      "text": "Bondhur biyer dawat card",
+      "score": 7
+    },
+    {
+      "text": "Dadar daater duronto golpo",
+      "score": 7
+    },
+    {
+      "text": "Khalur lukano kachuri",
+      "score": 6
+    },
+    {
+      "text": "Mosharraf Karim er voice",
+      "score": 7
+    },
+    {
+      "text": "Padma setu r upor selfie",
+      "score": 7
+    },
+    {
+      "text": "Metro rail e prothom uthlam",
+      "score": 8
+    },
+    {
+      "text": "Dhakar 3 ghonta jam",
+      "score": 6
+    },
+    {
+      "text": "Shugondhi jorda diye porota",
+      "score": 7
+    },
+    {
+      "text": "Ami bKash theke nahid bolchi",
+      "score": 8
+    },
+    {
+      "text": "CNG wala r mejaj kharap",
+      "score": 7
+    },
+    {
+      "text": "Rickshaw walar mathay topi",
+      "score": 7
+    },
+    {
+      "text": "Hartal e dokan bondho",
+      "score": 6
+    },
+    {
+      "text": "Kawran bazar morog er dam",
+      "score": 7
+    },
+    {
+      "text": "Awami League palay na",
+      "score": 6
+    },
+    {
+      "text": "BNP er meeting e police",
+      "score": 7
+    },
+    {
+      "text": "Bishal rally Manik mia avenue",
+      "score": 8
+    }
+  ]
+}
