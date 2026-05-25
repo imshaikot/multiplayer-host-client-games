@@ -3,16 +3,12 @@
   "words": [
     {
       "word": "octopus",
-      "typos": [
-        "octapuss"
-      ],
+      "typos": ["octapuss"],
       "modifier": "playing piano"
     },
     {
       "word": "elephant",
-      "typos": [
-        "elefant"
-      ],
+      "typos": ["elefant"],
       "modifier": "on a skateboard"
     },
     {
@@ -25,9 +21,7 @@
     },
     {
       "word": "penguin",
-      "typos": [
-        "pengiun"
-      ],
+      "typos": ["pengiun"],
       "modifier": "in a hot tub"
     },
     {
@@ -44,10 +38,7 @@
     },
     {
       "word": "giraffe",
-      "typos": [
-        "giraf",
-        "jiraffe"
-      ],
+      "typos": ["giraf","jiraffe"],
       "modifier": "stuck in an elevator"
     },
     {
@@ -84,9 +75,7 @@
     },
     {
       "word": "kangaroo",
-      "typos": [
-        "kangaru"
-      ],
+      "typos": ["kangaru"],
       "modifier": "delivering pizza"
     },
     {
@@ -121,24 +110,17 @@
     },
     {
       "word": "squirrel",
-      "typos": [
-        "squirl",
-        "skwirrel"
-      ],
+      "typos": ["squirl","skwirrel"],
       "modifier": "as a stockbroker"
     },
     {
       "word": "raccoon",
-      "typos": [
-        "racon"
-      ],
+      "typos": ["racon"],
       "modifier": "robbing a bank"
     },
     {
       "word": "hedgehog",
-      "typos": [
-        "hejhog"
-      ],
+      "typos": ["hejhog"],
       "modifier": "doing makeup"
     },
     {
@@ -187,9 +169,7 @@
     },
     {
       "word": "vulture",
-      "typos": [
-        "vultcher"
-      ],
+      "typos": ["vultcher"],
       "modifier": "at a job interview"
     },
     {
@@ -206,16 +186,12 @@
     },
     {
       "word": "ostrich",
-      "typos": [
-        "austrich"
-      ],
+      "typos": ["austrich"],
       "modifier": "as a librarian"
     },
     {
       "word": "butterfly",
-      "typos": [
-        "buttrfly"
-      ],
+      "typos": ["buttrfly"],
       "modifier": "lifting weights"
     },
     {
@@ -232,9 +208,7 @@
     },
     {
       "word": "scorpion",
-      "typos": [
-        "scropion"
-      ],
+      "typos": ["scropion"],
       "modifier": "playing the harp"
     },
     {
@@ -247,9 +221,7 @@
     },
     {
       "word": "jellyfish",
-      "typos": [
-        "jelifish"
-      ],
+      "typos": ["jelifish"],
       "modifier": "on a unicycle"
     },
     {
@@ -286,24 +258,17 @@
     },
     {
       "word": "chameleon",
-      "typos": [
-        "camelon",
-        "kameleon"
-      ],
+      "typos": ["camelon","kameleon"],
       "modifier": "lost in a shopping mall"
     },
     {
       "word": "crocodile",
-      "typos": [
-        "crocodial"
-      ],
+      "typos": ["crocodial"],
       "modifier": "wearing a tutu"
     },
     {
       "word": "dinosaur",
-      "typos": [
-        "dinosor"
-      ],
+      "typos": ["dinosor"],
       "modifier": "ordering takeout"
     },
     {
@@ -348,9 +313,7 @@
     },
     {
       "word": "mosquito",
-      "typos": [
-        "moskito"
-      ],
+      "typos": ["moskito"],
       "modifier": "in therapy"
     },
     {
@@ -379,9 +342,7 @@
     },
     {
       "word": "caterpillar",
-      "typos": [
-        "catapilar"
-      ],
+      "typos": ["catapilar"],
       "modifier": "training for a marathon"
     },
     {
@@ -432,6 +393,2378 @@
       "aliases": [
         "biryani"
       ]
-    }
+    },
+    {
+      "word": "samosa",
+      "modifier": "doing TikTok",
+      "aliases": [
+        "samusa"
+      ]
+    },
+    {
+      "word": "mango",
+      "modifier": "as the president"
+    },
+    {
+      "word": "fuchka",
+      "modifier": "in space",
+      "aliases": [
+        "phuchka",
+        "panipuri",
+        "gol gappa",
+        "golgappa"
+      ]
+    },
+    {
+      "word": "jilapi",
+      "modifier": "playing cricket",
+      "aliases": [
+        "jalebi",
+        "jilebi"
+      ]
+    },
+    {
+      "word": "cha",
+      "modifier": "doing exercise",
+      "aliases": [
+        "chai",
+        "tea"
+      ]
+    },
+    {
+      "word": "bread",
+      "modifier": "with a guitar"
+    },
+    {
+      "word": "butter",
+      "modifier": "on a horse"
+    },
+    {
+      "word": "cheese",
+      "modifier": "in a court trial"
+    },
+    {
+      "word": "egg",
+      "modifier": "as a bodyguard"
+    },
+    {
+      "word": "milk",
+      "modifier": "running a heist"
+    },
+    {
+      "word": "yogurt",
+      "modifier": "in a tuxedo"
+    },
+    {
+      "word": "cake",
+      "modifier": "lost in the woods"
+    },
+    {
+      "word": "cookie",
+      "modifier": "as a private eye"
+    },
+    {
+      "word": "taco",
+      "modifier": "skydiving"
+    },
+    {
+      "word": "sushi",
+      "modifier": "throwing a tantrum"
+    },
+    {
+      "word": "ramen",
+      "modifier": "as a librarian"
+    },
+    {
+      "word": "pasta",
+      "modifier": "ice fishing"
+    },
+    {
+      "word": "soup",
+      "modifier": "performing magic"
+    },
+    {
+      "word": "salad",
+      "modifier": "doing improv"
+    },
+    {
+      "word": "rice",
+      "modifier": "winning the lottery"
+    },
+    {
+      "word": "kebab",
+      "modifier": "as a vampire"
+    },
+    {
+      "word": "dumpling",
+      "modifier": "lifting weights"
+    },
+    {
+      "word": "pancake",
+      "modifier": "in space"
+    },
+    {
+      "word": "waffle",
+      "modifier": "doing yoga"
+    },
+    {
+      "word": "cupcake",
+      "modifier": "as a soldier"
+    },
+    {
+      "word": "chocolate",
+      "typos": ["choklate","choclat"],
+      "modifier": "running for president"
+    },
+    {
+      "word": "candy",
+      "modifier": "in a court trial"
+    },
+    {
+      "word": "lollipop",
+      "modifier": "as a librarian"
+    },
+    {
+      "word": "popcorn",
+      "modifier": "playing chess"
+    },
+    {
+      "word": "fries",
+      "modifier": "doing magic"
+    },
+    {
+      "word": "ketchup",
+      "modifier": "as a wedding photographer"
+    },
+    {
+      "word": "onion",
+      "modifier": "crying in a movie theater"
+    },
+    {
+      "word": "garlic",
+      "modifier": "on stage"
+    },
+    {
+      "word": "tomato",
+      "modifier": "in love"
+    },
+    {
+      "word": "potato",
+      "modifier": "running for office"
+    },
+    {
+      "word": "carrot",
+      "modifier": "doing parkour"
+    },
+    {
+      "word": "broccoli",
+      "typos": ["brocolli","broculi"],
+      "modifier": "as a DJ"
+    },
+    {
+      "word": "cucumber",
+      "modifier": "playing the drums"
+    },
+    {
+      "word": "pepper",
+      "modifier": "having stage fright"
+    },
+    {
+      "word": "apple",
+      "modifier": "doing taxes"
+    },
+    {
+      "word": "orange",
+      "modifier": "as a detective"
+    },
+    {
+      "word": "grape",
+      "modifier": "running a startup"
+    },
+    {
+      "word": "lemon",
+      "modifier": "lost at sea"
+    },
+    {
+      "word": "peach",
+      "modifier": "in pajamas"
+    },
+    {
+      "word": "pear",
+      "modifier": "at the gym"
+    },
+    {
+      "word": "pineapple",
+      "typos": ["pinaple"],
+      "modifier": "as a rock star"
+    },
+    {
+      "word": "watermelon",
+      "typos": ["watermellan"],
+      "modifier": "doing surgery"
+    },
+    {
+      "word": "strawberry",
+      "typos": ["strawbrry","strabery"],
+      "modifier": "on the moon"
+    },
+    {
+      "word": "cherry",
+      "modifier": "in court"
+    },
+    {
+      "word": "coconut",
+      "modifier": "with a typewriter"
+    },
+    {
+      "word": "papaya",
+      "modifier": "in space"
+    },
+    {
+      "word": "jackfruit",
+      "modifier": "doing karate"
+    },
+    {
+      "word": "lychee",
+      "modifier": "as a getaway driver"
+    },
+    {
+      "word": "guava",
+      "modifier": "in a wedding dress"
+    },
+    {
+      "word": "pomegranate",
+      "typos": ["pomegranet","pommegranite"],
+      "modifier": "as the president"
+    },
+    {
+      "word": "roshogolla",
+      "modifier": "ice skating",
+      "aliases": [
+        "rosogolla",
+        "rasgulla",
+        "roshogolla"
+      ]
+    },
+    {
+      "word": "sandesh",
+      "modifier": "as a CEO"
+    },
+    {
+      "word": "chomchom",
+      "modifier": "doing kungfu",
+      "aliases": [
+        "chamcham"
+      ]
+    },
+    {
+      "word": "kheer",
+      "modifier": "running from the police"
+    },
+    {
+      "word": "halwa",
+      "modifier": "playing cricket"
+    },
+    {
+      "word": "paratha",
+      "modifier": "in jail"
+    },
+    {
+      "word": "luchi",
+      "modifier": "doing ballet"
+    },
+    {
+      "word": "dal",
+      "modifier": "in a spy movie",
+      "aliases": [
+        "dahl",
+        "daal"
+      ]
+    },
+    {
+      "word": "ghee",
+      "modifier": "on a skateboard"
+    },
+    {
+      "word": "ilish",
+      "modifier": "filing a complaint",
+      "aliases": [
+        "hilsha",
+        "hilsa"
+      ]
+    },
+    {
+      "word": "shutki",
+      "modifier": "as a model"
+    },
+    {
+      "word": "alurdom",
+      "modifier": "doing yoga",
+      "aliases": [
+        "alur dom",
+        "alu dom"
+      ]
+    },
+    {
+      "word": "panta",
+      "modifier": "in a luxury car",
+      "aliases": [
+        "panta bhat",
+        "pantabhat"
+      ]
+    },
+    {
+      "word": "payesh",
+      "modifier": "with a sword"
+    },
+    {
+      "word": "mishti",
+      "modifier": "as a bouncer"
+    },
+    {
+      "word": "mishtidoi",
+      "modifier": "robbing a bank",
+      "aliases": [
+        "mishti doi",
+        "mishti dahi"
+      ]
+    },
+    {
+      "word": "rasmalai",
+      "modifier": "doing taxes"
+    },
+    {
+      "word": "kacchi",
+      "modifier": "as a flight attendant",
+      "aliases": [
+        "kacchi biryani",
+        "kacchi biriyani"
+      ]
+    },
+    {
+      "word": "vapapitha",
+      "modifier": "playing the piano",
+      "aliases": [
+        "vapa pitha",
+        "bhapa pitha"
+      ]
+    },
+    {
+      "word": "chitoi",
+      "modifier": "doing magic",
+      "aliases": [
+        "chitoi pitha"
+      ]
+    },
+    {
+      "word": "fuluri",
+      "modifier": "as a king"
+    },
+    {
+      "word": "bhuna",
+      "modifier": "in space"
+    },
+    {
+      "word": "muri",
+      "modifier": "doing karate"
+    },
+    {
+      "word": "shorshe",
+      "modifier": "as a lawyer",
+      "aliases": [
+        "sorshe",
+        "mustard"
+      ]
+    },
+    {
+      "word": "guitar",
+      "modifier": "on the moon"
+    },
+    {
+      "word": "piano",
+      "modifier": "in a swimming pool"
+    },
+    {
+      "word": "drums",
+      "modifier": "on a cliff"
+    },
+    {
+      "word": "microphone",
+      "modifier": "in court"
+    },
+    {
+      "word": "camera",
+      "modifier": "lost in a forest"
+    },
+    {
+      "word": "laptop",
+      "modifier": "running away"
+    },
+    {
+      "word": "phone",
+      "modifier": "as a baby"
+    },
+    {
+      "word": "umbrella",
+      "modifier": "in a desert"
+    },
+    {
+      "word": "sunglasses",
+      "modifier": "at midnight"
+    },
+    {
+      "word": "chair",
+      "modifier": "robbing a bank"
+    },
+    {
+      "word": "table",
+      "modifier": "running for office"
+    },
+    {
+      "word": "lamp",
+      "modifier": "in a horror movie"
+    },
+    {
+      "word": "book",
+      "modifier": "as a rock star"
+    },
+    {
+      "word": "pencil",
+      "modifier": "in a boxing ring"
+    },
+    {
+      "word": "pen",
+      "modifier": "with stage fright"
+    },
+    {
+      "word": "eraser",
+      "modifier": "as a CEO"
+    },
+    {
+      "word": "ruler",
+      "modifier": "doing yoga"
+    },
+    {
+      "word": "scissors",
+      "modifier": "in love"
+    },
+    {
+      "word": "glue",
+      "modifier": "running a marathon"
+    },
+    {
+      "word": "paper",
+      "modifier": "as a wedding singer"
+    },
+    {
+      "word": "envelope",
+      "modifier": "in a job interview"
+    },
+    {
+      "word": "stamp",
+      "modifier": "doing taxes"
+    },
+    {
+      "word": "key",
+      "modifier": "lost in a parking lot"
+    },
+    {
+      "word": "lock",
+      "modifier": "as a getaway driver"
+    },
+    {
+      "word": "hammer",
+      "modifier": "in therapy"
+    },
+    {
+      "word": "nail",
+      "modifier": "on stage"
+    },
+    {
+      "word": "screwdriver",
+      "modifier": "at the dentist"
+    },
+    {
+      "word": "wrench",
+      "modifier": "as a chef"
+    },
+    {
+      "word": "ladder",
+      "modifier": "playing the violin"
+    },
+    {
+      "word": "broom",
+      "modifier": "in jail"
+    },
+    {
+      "word": "mop",
+      "modifier": "at a wedding"
+    },
+    {
+      "word": "bucket",
+      "modifier": "as a teacher"
+    },
+    {
+      "word": "sponge",
+      "modifier": "having a panic attack"
+    },
+    {
+      "word": "soap",
+      "modifier": "running for mayor"
+    },
+    {
+      "word": "toothbrush",
+      "modifier": "as a bodyguard"
+    },
+    {
+      "word": "comb",
+      "modifier": "in a court trial"
+    },
+    {
+      "word": "mirror",
+      "modifier": "in a haunted house"
+    },
+    {
+      "word": "towel",
+      "modifier": "as the president"
+    },
+    {
+      "word": "blanket",
+      "modifier": "lifting weights"
+    },
+    {
+      "word": "pillow",
+      "modifier": "ice skating"
+    },
+    {
+      "word": "curtain",
+      "modifier": "on a date"
+    },
+    {
+      "word": "clock",
+      "modifier": "in a horror movie"
+    },
+    {
+      "word": "watch",
+      "modifier": "running a marathon"
+    },
+    {
+      "word": "calendar",
+      "modifier": "in jail"
+    },
+    {
+      "word": "calculator",
+      "modifier": "as a magician"
+    },
+    {
+      "word": "remote",
+      "modifier": "in love"
+    },
+    {
+      "word": "fan",
+      "modifier": "doing karate"
+    },
+    {
+      "word": "fridge",
+      "modifier": "performing surgery",
+      "aliases": [
+        "refrigerator"
+      ]
+    },
+    {
+      "word": "oven",
+      "modifier": "stuck in traffic"
+    },
+    {
+      "word": "microwave",
+      "modifier": "as a sailor"
+    },
+    {
+      "word": "kettle",
+      "modifier": "having a midlife crisis"
+    },
+    {
+      "word": "toaster",
+      "modifier": "running for office"
+    },
+    {
+      "word": "blender",
+      "modifier": "as a librarian"
+    },
+    {
+      "word": "knife",
+      "modifier": "at a job interview"
+    },
+    {
+      "word": "fork",
+      "modifier": "as a king"
+    },
+    {
+      "word": "spoon",
+      "modifier": "doing accounting"
+    },
+    {
+      "word": "plate",
+      "modifier": "running a heist"
+    },
+    {
+      "word": "bowl",
+      "modifier": "with stage fright"
+    },
+    {
+      "word": "cup",
+      "modifier": "as a wedding photographer"
+    },
+    {
+      "word": "bottle",
+      "modifier": "on a rollercoaster"
+    },
+    {
+      "word": "balloon",
+      "modifier": "in a tuxedo"
+    },
+    {
+      "word": "candle",
+      "modifier": "as a yoga instructor"
+    },
+    {
+      "word": "vase",
+      "modifier": "afraid of heights"
+    },
+    {
+      "word": "basket",
+      "modifier": "running from the police"
+    },
+    {
+      "word": "suitcase",
+      "modifier": "lost in space"
+    },
+    {
+      "word": "backpack",
+      "modifier": "in a court trial"
+    },
+    {
+      "word": "wallet",
+      "modifier": "as a bouncer"
+    },
+    {
+      "word": "purse",
+      "modifier": "in a wedding dress"
+    },
+    {
+      "word": "schoolbag",
+      "modifier": "having a tantrum"
+    },
+    {
+      "word": "blackboard",
+      "modifier": "as a superhero"
+    },
+    {
+      "word": "kite",
+      "modifier": "with stage fright"
+    },
+    {
+      "word": "bicycle",
+      "typos": ["bycicle","baicycle"],
+      "modifier": "in heavy traffic"
+    },
+    {
+      "word": "bus",
+      "modifier": "at the doctor"
+    },
+    {
+      "word": "boat",
+      "modifier": "lost in a city"
+    },
+    {
+      "word": "plane",
+      "modifier": "afraid of heights"
+    },
+    {
+      "word": "train",
+      "modifier": "late for work"
+    },
+    {
+      "word": "tractor",
+      "modifier": "at a disco"
+    },
+    {
+      "word": "ambulance",
+      "typos": ["amblance"],
+      "modifier": "sleeping"
+    },
+    {
+      "word": "rickshaw",
+      "modifier": "flying"
+    },
+    {
+      "word": "car",
+      "modifier": "in pajamas"
+    },
+    {
+      "word": "motorcycle",
+      "modifier": "doing taxes"
+    },
+    {
+      "word": "scooter",
+      "modifier": "as a bodyguard"
+    },
+    {
+      "word": "helicopter",
+      "typos": ["helecoptor"],
+      "modifier": "ordering takeout"
+    },
+    {
+      "word": "submarine",
+      "typos": ["submareen"],
+      "modifier": "in a desert"
+    },
+    {
+      "word": "rocket",
+      "modifier": "as a barista"
+    },
+    {
+      "word": "spaceship",
+      "modifier": "lost at sea"
+    },
+    {
+      "word": "skateboard",
+      "modifier": "in a court trial"
+    },
+    {
+      "word": "ship",
+      "modifier": "running for mayor"
+    },
+    {
+      "word": "taxi",
+      "modifier": "as a clown"
+    },
+    {
+      "word": "truck",
+      "modifier": "at a wedding"
+    },
+    {
+      "word": "tank",
+      "modifier": "in a ballet recital"
+    },
+    {
+      "word": "jet",
+      "modifier": "selling vegetables"
+    },
+    {
+      "word": "parachute",
+      "typos": ["parashoot"],
+      "modifier": "in love"
+    },
+    {
+      "word": "hotairballoon",
+      "modifier": "running a daycare",
+      "aliases": [
+        "hot air balloon",
+        "balloon"
+      ]
+    },
+    {
+      "word": "cng",
+      "modifier": "in a music video"
+    },
+    {
+      "word": "leguna",
+      "modifier": "on a date"
+    },
+    {
+      "word": "police",
+      "modifier": "doing ballet"
+    },
+    {
+      "word": "doctor",
+      "modifier": "as a ninja"
+    },
+    {
+      "word": "teacher",
+      "modifier": "with a sword"
+    },
+    {
+      "word": "chef",
+      "modifier": "on a horse"
+    },
+    {
+      "word": "barber",
+      "modifier": "in a haunted house"
+    },
+    {
+      "word": "farmer",
+      "modifier": "with superpowers"
+    },
+    {
+      "word": "ninja",
+      "modifier": "doing laundry"
+    },
+    {
+      "word": "pirate",
+      "modifier": "as a baker"
+    },
+    {
+      "word": "wizard",
+      "modifier": "stuck in traffic"
+    },
+    {
+      "word": "vampire",
+      "modifier": "selling vegetables"
+    },
+    {
+      "word": "zombie",
+      "modifier": "at a job interview"
+    },
+    {
+      "word": "astronaut",
+      "typos": ["astronot","astranot"],
+      "modifier": "doing dishes"
+    },
+    {
+      "word": "scientist",
+      "typos": ["sciencetist","scintist"],
+      "modifier": "in love"
+    },
+    {
+      "word": "artist",
+      "modifier": "as a wrestler"
+    },
+    {
+      "word": "musician",
+      "modifier": "in the desert"
+    },
+    {
+      "word": "painter",
+      "modifier": "lost in space"
+    },
+    {
+      "word": "photographer",
+      "typos": ["fotografer"],
+      "modifier": "running for office"
+    },
+    {
+      "word": "journalist",
+      "modifier": "as a clown"
+    },
+    {
+      "word": "soldier",
+      "modifier": "in a wedding dress"
+    },
+    {
+      "word": "sailor",
+      "modifier": "afraid of water"
+    },
+    {
+      "word": "fireman",
+      "modifier": "scared of fire"
+    },
+    {
+      "word": "knight",
+      "modifier": "as a babysitter"
+    },
+    {
+      "word": "samurai",
+      "modifier": "doing karaoke"
+    },
+    {
+      "word": "judge",
+      "modifier": "as a pop star"
+    },
+    {
+      "word": "lawyer",
+      "modifier": "in pajamas"
+    },
+    {
+      "word": "banker",
+      "modifier": "in space"
+    },
+    {
+      "word": "pilot",
+      "modifier": "as a comedian"
+    },
+    {
+      "word": "mechanic",
+      "modifier": "at a tea party"
+    },
+    {
+      "word": "plumber",
+      "modifier": "with a violin"
+    },
+    {
+      "word": "carpenter",
+      "modifier": "running a marathon"
+    },
+    {
+      "word": "dentist",
+      "modifier": "afraid of teeth"
+    },
+    {
+      "word": "nurse",
+      "modifier": "in a court trial"
+    },
+    {
+      "word": "vet",
+      "modifier": "as a getaway driver",
+      "aliases": [
+        "veterinarian"
+      ]
+    },
+    {
+      "word": "lifeguard",
+      "modifier": "lost in space"
+    },
+    {
+      "word": "magician",
+      "modifier": "in jail"
+    },
+    {
+      "word": "clown",
+      "modifier": "doing taxes"
+    },
+    {
+      "word": "ballerina",
+      "modifier": "as a bodyguard"
+    },
+    {
+      "word": "gymnast",
+      "modifier": "having a panic attack"
+    },
+    {
+      "word": "auntie",
+      "modifier": "with a bazooka"
+    },
+    {
+      "word": "uncle",
+      "modifier": "as a DJ"
+    },
+    {
+      "word": "mama",
+      "modifier": "in a music video"
+    },
+    {
+      "word": "chacha",
+      "modifier": "doing magic"
+    },
+    {
+      "word": "dada",
+      "modifier": "as a wrestler"
+    },
+    {
+      "word": "nana",
+      "modifier": "running a startup"
+    },
+    {
+      "word": "baby",
+      "modifier": "in a board meeting"
+    },
+    {
+      "word": "mountain",
+      "typos": ["mountian"],
+      "modifier": "wearing a hat"
+    },
+    {
+      "word": "volcano",
+      "typos": ["vulcanoe"],
+      "modifier": "trying to relax"
+    },
+    {
+      "word": "rainbow",
+      "typos": ["raynbow","ranebow"],
+      "modifier": "fighting crime"
+    },
+    {
+      "word": "snowman",
+      "modifier": "at the beach"
+    },
+    {
+      "word": "treasure",
+      "modifier": "running for office"
+    },
+    {
+      "word": "castle",
+      "modifier": "made of pillows"
+    },
+    {
+      "word": "moon",
+      "modifier": "playing cards"
+    },
+    {
+      "word": "sun",
+      "modifier": "in pajamas"
+    },
+    {
+      "word": "cloud",
+      "modifier": "doing pushups"
+    },
+    {
+      "word": "star",
+      "modifier": "at a concert"
+    },
+    {
+      "word": "ocean",
+      "modifier": "writing poetry"
+    },
+    {
+      "word": "desert",
+      "modifier": "having a snowball fight"
+    },
+    {
+      "word": "tree",
+      "modifier": "doing yoga"
+    },
+    {
+      "word": "flower",
+      "modifier": "as a bouncer"
+    },
+    {
+      "word": "leaf",
+      "modifier": "running for office"
+    },
+    {
+      "word": "grass",
+      "modifier": "in love"
+    },
+    {
+      "word": "river",
+      "modifier": "as a teacher"
+    },
+    {
+      "word": "lake",
+      "modifier": "lost in a forest"
+    },
+    {
+      "word": "beach",
+      "modifier": "in a tuxedo"
+    },
+    {
+      "word": "forest",
+      "modifier": "robbing a bank"
+    },
+    {
+      "word": "jungle",
+      "modifier": "in a wedding dress"
+    },
+    {
+      "word": "cave",
+      "modifier": "having a dinner party"
+    },
+    {
+      "word": "island",
+      "modifier": "ordering takeout"
+    },
+    {
+      "word": "waterfall",
+      "modifier": "as a CEO"
+    },
+    {
+      "word": "storm",
+      "modifier": "doing taxes"
+    },
+    {
+      "word": "lightning",
+      "typos": ["litning"],
+      "modifier": "in pajamas"
+    },
+    {
+      "word": "snow",
+      "modifier": "in the desert"
+    },
+    {
+      "word": "rain",
+      "modifier": "at the beach"
+    },
+    {
+      "word": "fire",
+      "modifier": "selling ice cream"
+    },
+    {
+      "word": "rock",
+      "modifier": "as a wedding singer"
+    },
+    {
+      "word": "planet",
+      "modifier": "having stage fright"
+    },
+    {
+      "word": "galaxy",
+      "modifier": "stuck in traffic"
+    },
+    {
+      "word": "cricket",
+      "modifier": "underwater"
+    },
+    {
+      "word": "football",
+      "modifier": "wearing a tuxedo"
+    },
+    {
+      "word": "basketball",
+      "modifier": "in pajamas"
+    },
+    {
+      "word": "tennis",
+      "modifier": "underwater"
+    },
+    {
+      "word": "badminton",
+      "modifier": "in a tornado"
+    },
+    {
+      "word": "swimming",
+      "modifier": "in a desert"
+    },
+    {
+      "word": "running",
+      "modifier": "as a snail"
+    },
+    {
+      "word": "dancing",
+      "modifier": "in zero gravity"
+    },
+    {
+      "word": "singing",
+      "modifier": "underwater"
+    },
+    {
+      "word": "cooking",
+      "modifier": "blindfolded"
+    },
+    {
+      "word": "reading",
+      "modifier": "upside down"
+    },
+    {
+      "word": "sleeping",
+      "modifier": "on a rollercoaster"
+    },
+    {
+      "word": "fishing",
+      "modifier": "in a swimming pool"
+    },
+    {
+      "word": "camping",
+      "modifier": "on the moon"
+    },
+    {
+      "word": "boxing",
+      "modifier": "as a baby"
+    },
+    {
+      "word": "karate",
+      "modifier": "in a wedding dress"
+    },
+    {
+      "word": "archery",
+      "modifier": "in a phone booth"
+    },
+    {
+      "word": "bowling",
+      "modifier": "with watermelons"
+    },
+    {
+      "word": "skiing",
+      "modifier": "on a desert"
+    },
+    {
+      "word": "surfing",
+      "modifier": "in a bathtub"
+    },
+    {
+      "word": "climbing",
+      "modifier": "in slippers"
+    },
+    {
+      "word": "hiking",
+      "modifier": "in heels"
+    },
+    {
+      "word": "robot",
+      "modifier": "having a panic attack"
+    },
+    {
+      "word": "alien",
+      "modifier": "ordering pizza"
+    },
+    {
+      "word": "ghost",
+      "modifier": "at the gym"
+    },
+    {
+      "word": "mermaid",
+      "modifier": "at a desert party"
+    },
+    {
+      "word": "fairy",
+      "modifier": "as a bouncer"
+    },
+    {
+      "word": "elf",
+      "modifier": "running a startup"
+    },
+    {
+      "word": "troll",
+      "modifier": "doing yoga"
+    },
+    {
+      "word": "witch",
+      "modifier": "at a wedding"
+    },
+    {
+      "word": "mummy",
+      "modifier": "on a date"
+    },
+    {
+      "word": "werewolf",
+      "modifier": "running for office"
+    },
+    {
+      "word": "skeleton",
+      "modifier": "in a yoga class"
+    },
+    {
+      "word": "batman",
+      "modifier": "selling vegetables"
+    },
+    {
+      "word": "superman",
+      "modifier": "afraid of heights"
+    },
+    {
+      "word": "spiderman",
+      "modifier": "as a barber",
+      "aliases": [
+        "spider man"
+      ]
+    },
+    {
+      "word": "hulk",
+      "modifier": "doing accounting"
+    },
+    {
+      "word": "joker",
+      "modifier": "as a teacher"
+    },
+    {
+      "word": "mario",
+      "modifier": "in a job interview"
+    },
+    {
+      "word": "pikachu",
+      "modifier": "at a court trial"
+    },
+    {
+      "word": "doraemon",
+      "modifier": "running a marathon"
+    },
+    {
+      "word": "shinchan",
+      "modifier": "as a CEO"
+    },
+    {
+      "word": "santa",
+      "modifier": "at the beach"
+    },
+    {
+      "word": "godzilla",
+      "modifier": "at a tea party"
+    },
+    {
+      "word": "tarzan",
+      "modifier": "in a business suit"
+    },
+    {
+      "word": "buddha",
+      "modifier": "playing the drums"
+    },
+    {
+      "word": "genie",
+      "modifier": "filing taxes"
+    },
+    {
+      "word": "hat",
+      "modifier": "in a horror movie"
+    },
+    {
+      "word": "shoe",
+      "modifier": "in space"
+    },
+    {
+      "word": "shirt",
+      "modifier": "as a getaway driver"
+    },
+    {
+      "word": "pants",
+      "modifier": "having a panic attack"
+    },
+    {
+      "word": "dress",
+      "modifier": "robbing a bank"
+    },
+    {
+      "word": "skirt",
+      "modifier": "at a job interview"
+    },
+    {
+      "word": "jacket",
+      "modifier": "lost in a desert"
+    },
+    {
+      "word": "coat",
+      "modifier": "in the tropics"
+    },
+    {
+      "word": "scarf",
+      "modifier": "doing yoga"
+    },
+    {
+      "word": "gloves",
+      "modifier": "as a chef"
+    },
+    {
+      "word": "socks",
+      "modifier": "as a CEO"
+    },
+    {
+      "word": "boots",
+      "modifier": "in a swimming pool"
+    },
+    {
+      "word": "sandals",
+      "modifier": "in a snowstorm"
+    },
+    {
+      "word": "belt",
+      "modifier": "as a king"
+    },
+    {
+      "word": "tie",
+      "modifier": "on a vacation"
+    },
+    {
+      "word": "suit",
+      "modifier": "at a pool party"
+    },
+    {
+      "word": "lungi",
+      "modifier": "doing breakdance"
+    },
+    {
+      "word": "shari",
+      "modifier": "in a spy movie",
+      "aliases": [
+        "saree",
+        "sari"
+      ]
+    },
+    {
+      "word": "panjabi",
+      "modifier": "doing kungfu",
+      "aliases": [
+        "punjabi"
+      ]
+    },
+    {
+      "word": "gamcha",
+      "modifier": "as a magician"
+    },
+    {
+      "word": "kurta",
+      "modifier": "performing magic"
+    },
+    {
+      "word": "chhata",
+      "modifier": "in a desert",
+      "aliases": [
+        "chhatta",
+        "chata"
+      ]
+    },
+    {
+      "word": "hijab",
+      "modifier": "as a samurai"
+    },
+    {
+      "word": "sneakers",
+      "modifier": "as a soldier"
+    },
+    {
+      "word": "helmet",
+      "modifier": "in pajamas"
+    },
+    {
+      "word": "crown",
+      "modifier": "doing dishes"
+    },
+    {
+      "word": "mask",
+      "modifier": "as a baker"
+    },
+    {
+      "word": "ring",
+      "modifier": "doing magic"
+    },
+    {
+      "word": "necklace",
+      "typos": ["neckless","necklis"],
+      "modifier": "as a wrestler"
+    },
+    {
+      "word": "bracelet",
+      "modifier": "in a car chase"
+    },
+    {
+      "word": "earring",
+      "modifier": "running a marathon"
+    },
+    {
+      "word": "tajmahal",
+      "modifier": "as an Olympic athlete",
+      "aliases": [
+        "taj mahal"
+      ]
+    },
+    {
+      "word": "pyramid",
+      "modifier": "at a barbecue"
+    },
+    {
+      "word": "stonehenge",
+      "modifier": "running a startup"
+    },
+    {
+      "word": "everest",
+      "modifier": "doing yoga",
+      "aliases": [
+        "mount everest"
+      ]
+    },
+    {
+      "word": "niagara",
+      "modifier": "as a lifeguard",
+      "aliases": [
+        "niagara falls"
+      ]
+    },
+    {
+      "word": "eiffel",
+      "modifier": "in a tuxedo",
+      "aliases": [
+        "eiffel tower"
+      ]
+    },
+    {
+      "word": "sundarbans",
+      "modifier": "in a luxury hotel"
+    },
+    {
+      "word": "coxsbazar",
+      "modifier": "in a snowstorm",
+      "aliases": [
+        "cox's bazar",
+        "cox bazar"
+      ]
+    },
+    {
+      "word": "lalbagh",
+      "modifier": "as a soldier",
+      "aliases": [
+        "lalbagh fort"
+      ]
+    },
+    {
+      "word": "dhaka",
+      "modifier": "as a ghost town"
+    },
+    {
+      "word": "padmabridge",
+      "modifier": "as a magician",
+      "aliases": [
+        "padma bridge",
+        "padma"
+      ]
+    },
+    {
+      "word": "shaheedminar",
+      "modifier": "in disguise",
+      "aliases": [
+        "shaheed minar"
+      ]
+    },
+    {
+      "word": "school",
+      "modifier": "as a haunted house"
+    },
+    {
+      "word": "hospital",
+      "modifier": "on a beach"
+    },
+    {
+      "word": "mosque",
+      "typos": ["mosk"],
+      "modifier": "in a music video"
+    },
+    {
+      "word": "temple",
+      "modifier": "in a circus"
+    },
+    {
+      "word": "market",
+      "modifier": "as a haunted house",
+      "aliases": [
+        "bazaar"
+      ]
+    },
+    {
+      "word": "restaurant",
+      "typos": ["restraunt","restarant"],
+      "modifier": "on top of a mountain"
+    },
+    {
+      "word": "hotel",
+      "modifier": "in space"
+    },
+    {
+      "word": "library",
+      "modifier": "as a dance club"
+    },
+    {
+      "word": "museum",
+      "modifier": "in a soap opera"
+    },
+    {
+      "word": "zoo",
+      "modifier": "as a high-security prison"
+    },
+    {
+      "word": "park",
+      "modifier": "at midnight"
+    },
+    {
+      "word": "factory",
+      "modifier": "as a daycare"
+    },
+    {
+      "word": "stadium",
+      "modifier": "in a fish tank"
+    },
+    {
+      "word": "bridge",
+      "modifier": "as a roller coaster"
+    },
+    {
+      "word": "tower",
+      "modifier": "in pajamas"
+    },
+    {
+      "word": "house",
+      "modifier": "running away"
+    },
+    {
+      "word": "soccerball",
+      "modifier": "as a king",
+      "aliases": [
+        "soccer ball",
+        "football"
+      ]
+    },
+    {
+      "word": "basketballhoop",
+      "modifier": "in a desert",
+      "aliases": [
+        "basketball hoop"
+      ]
+    },
+    {
+      "word": "tennisball",
+      "modifier": "in court",
+      "aliases": [
+        "tennis ball"
+      ]
+    },
+    {
+      "word": "racket",
+      "modifier": "as a samurai"
+    },
+    {
+      "word": "trophy",
+      "modifier": "running away"
+    },
+    {
+      "word": "medal",
+      "modifier": "in a court trial"
+    },
+    {
+      "word": "flag",
+      "modifier": "in pajamas"
+    },
+    {
+      "word": "kiteflying",
+      "modifier": "in a thunderstorm",
+      "aliases": [
+        "kite flying"
+      ]
+    },
+    {
+      "word": "yoyo",
+      "modifier": "in a wedding dress",
+      "aliases": [
+        "yo-yo",
+        "yo yo"
+      ]
+    },
+    {
+      "word": "puzzle",
+      "modifier": "as a getaway driver"
+    },
+    {
+      "word": "domino",
+      "modifier": "running a marathon"
+    },
+    {
+      "word": "chess",
+      "modifier": "as a barber"
+    },
+    {
+      "word": "cards",
+      "modifier": "as a teacher"
+    },
+    {
+      "word": "dice",
+      "modifier": "in a court trial"
+    },
+    {
+      "word": "checkers",
+      "modifier": "in a chess tournament"
+    },
+    {
+      "word": "satellite",
+      "modifier": "in a hot tub"
+    },
+    {
+      "word": "violin",
+      "modifier": "in space"
+    },
+    {
+      "word": "trumpet",
+      "modifier": "doing aerobics"
+    },
+    {
+      "word": "saxophone",
+      "typos": ["saxofone","saxaphon"],
+      "modifier": "at a chess tournament"
+    },
+    {
+      "word": "harmonica",
+      "modifier": "as a librarian"
+    },
+    {
+      "word": "accordion",
+      "modifier": "in a luxury car"
+    },
+    {
+      "word": "flute",
+      "modifier": "as a CEO"
+    },
+    {
+      "word": "tabla",
+      "modifier": "doing taxes"
+    },
+    {
+      "word": "dhol",
+      "modifier": "in a courtroom",
+      "aliases": [
+        "dholok"
+      ]
+    },
+    {
+      "word": "harmonium",
+      "modifier": "in a ballet recital"
+    },
+    {
+      "word": "ektara",
+      "modifier": "doing magic"
+    },
+    {
+      "word": "syringe",
+      "modifier": "afraid of needles"
+    },
+    {
+      "word": "stethoscope",
+      "typos": ["stethascop","stetascope"],
+      "modifier": "in a band"
+    },
+    {
+      "word": "thermometer",
+      "typos": ["thermometre","thurmometre"],
+      "modifier": "as a king"
+    },
+    {
+      "word": "bandage",
+      "modifier": "doing parkour"
+    },
+    {
+      "word": "wheelchair",
+      "modifier": "doing wheelies"
+    },
+    {
+      "word": "crutch",
+      "modifier": "in a marathon"
+    },
+    {
+      "word": "magnet",
+      "modifier": "as a dating coach"
+    },
+    {
+      "word": "battery",
+      "modifier": "exhausted"
+    },
+    {
+      "word": "bulb",
+      "modifier": "with a great idea",
+      "aliases": [
+        "light bulb",
+        "lightbulb"
+      ]
+    },
+    {
+      "word": "wire",
+      "modifier": "in love"
+    },
+    {
+      "word": "plug",
+      "modifier": "afraid of electricity"
+    },
+    {
+      "word": "switch",
+      "modifier": "as a magician"
+    },
+    {
+      "word": "diamond",
+      "typos": ["dimand"],
+      "modifier": "in a pickle jar"
+    },
+    {
+      "word": "gold",
+      "modifier": "as a security guard"
+    },
+    {
+      "word": "silver",
+      "modifier": "going viral"
+    },
+    {
+      "word": "pearl",
+      "modifier": "in a court trial"
+    },
+    {
+      "word": "coin",
+      "modifier": "running for office"
+    },
+    {
+      "word": "snowflake",
+      "modifier": "in the desert"
+    },
+    {
+      "word": "icicle",
+      "modifier": "on a beach"
+    },
+    {
+      "word": "puddle",
+      "modifier": "having an existential crisis"
+    },
+    {
+      "word": "tornado",
+      "modifier": "doing yoga"
+    },
+    {
+      "word": "hurricane",
+      "typos": ["hurican","huricaine"],
+      "modifier": "as a babysitter"
+    },
+    {
+      "word": "earthquake",
+      "typos": ["earthwake"],
+      "modifier": "trying to nap"
+    },
+    {
+      "word": "tsunami",
+      "modifier": "as a swim instructor"
+    },
+    {
+      "word": "blizzard",
+      "modifier": "selling ice cream"
+    },
+    {
+      "word": "compass",
+      "modifier": "lost in a parking lot"
+    },
+    {
+      "word": "telescope",
+      "typos": ["tellascope"],
+      "modifier": "at the bottom of the ocean"
+    },
+    {
+      "word": "microscope",
+      "typos": ["mikroscop"],
+      "modifier": "looking at a mountain"
+    },
+    {
+      "word": "binoculars",
+      "modifier": "looking at their own face"
+    },
+    {
+      "word": "map",
+      "modifier": "in a desert"
+    },
+    {
+      "word": "broomstick",
+      "modifier": "as a Formula 1 racer"
+    },
+    {
+      "word": "wand",
+      "modifier": "in a job interview"
+    },
+    {
+      "word": "cauldron",
+      "modifier": "in a beauty pageant"
+    },
+    {
+      "word": "crystalball",
+      "modifier": "as a stand-up comedian",
+      "aliases": [
+        "crystal ball"
+      ]
+    },
+    {
+      "word": "potion",
+      "modifier": "in a courtroom"
+    },
+    {
+      "word": "tongue",
+      "modifier": "in a marathon"
+    },
+    {
+      "word": "eye",
+      "modifier": "doing magic tricks"
+    },
+    {
+      "word": "ear",
+      "modifier": "as a CEO"
+    },
+    {
+      "word": "nose",
+      "modifier": "in a parade"
+    },
+    {
+      "word": "mouth",
+      "modifier": "in space"
+    },
+    {
+      "word": "hand",
+      "modifier": "in love"
+    },
+    {
+      "word": "foot",
+      "modifier": "as a king"
+    },
+    {
+      "word": "heart",
+      "modifier": "doing yoga"
+    },
+    {
+      "word": "brain",
+      "modifier": "at the gym"
+    },
+    {
+      "word": "moustache",
+      "typos": ["mustash","moustash"],
+      "modifier": "as a baby",
+      "aliases": [
+        "mustache"
+      ]
+    },
+    {
+      "word": "beard",
+      "modifier": "as a ballerina"
+    },
+    {
+      "word": "skull",
+      "modifier": "in a band"
+    },
+    {
+      "word": "bone",
+      "modifier": "in love"
+    },
+    {
+      "word": "teeth",
+      "modifier": "running a startup"
+    },
+    {
+      "word": "tooth",
+      "modifier": "as a wrestler"
+    },
+    {
+      "word": "hairbrush",
+      "modifier": "as a microphone",
+      "aliases": [
+        "hair brush"
+      ]
+    },
+    {
+      "word": "razor",
+      "modifier": "as a dance instructor"
+    },
+    {
+      "word": "lipstick",
+      "modifier": "in a courtroom"
+    },
+    {
+      "word": "perfume",
+      "modifier": "in a horror movie"
+    },
+    {
+      "word": "feather",
+      "modifier": "lifting weights"
+    },
+    {
+      "word": "shell",
+      "modifier": "as a doctor"
+    },
+    {
+      "word": "fossil",
+      "modifier": "running a marathon"
+    },
+    {
+      "word": "knot",
+      "modifier": "going to a wedding"
+    },
+    {
+      "word": "rope",
+      "modifier": "as a teacher"
+    },
+    {
+      "word": "chain",
+      "modifier": "in a pickle jar"
+    },
+    {
+      "word": "anchor",
+      "modifier": "in a desert"
+    },
+    {
+      "word": "computer",
+      "typos": ["kompyuter"],
+      "modifier": "as a librarian"
+    },
+    {
+      "word": "monitor",
+      "modifier": "afraid of pixels"
+    },
+    {
+      "word": "keyboard",
+      "typos": ["keybaord"],
+      "modifier": "running for office"
+    },
+    {
+      "word": "printer",
+      "modifier": "in a wedding dress"
+    },
+    {
+      "word": "router",
+      "modifier": "as a Formula 1 driver"
+    },
+    {
+      "word": "wifi",
+      "modifier": "as a CEO"
+    },
+    {
+      "word": "postbox",
+      "modifier": "in a music video",
+      "aliases": [
+        "mailbox"
+      ]
+    },
+    {
+      "word": "wheel",
+      "modifier": "afraid of rolling"
+    },
+    {
+      "word": "engine",
+      "modifier": "in pajamas"
+    },
+    {
+      "word": "tire",
+      "modifier": "as a yoga instructor"
+    },
+    {
+      "word": "horn",
+      "modifier": "in a library"
+    },
+    {
+      "word": "siren",
+      "modifier": "as a yoga instructor"
+    },
+    {
+      "word": "alarm",
+      "modifier": "as a meditation guide"
+    },
+    {
+      "word": "trafficlight",
+      "modifier": "in a music video",
+      "aliases": [
+        "traffic light"
+      ]
+    },
+    {
+      "word": "signboard",
+      "modifier": "running for office",
+      "aliases": [
+        "sign board",
+        "billboard"
+      ]
+    },
+    {
+      "word": "bench",
+      "modifier": "as a personal trainer"
+    },
+    {
+      "word": "fountain",
+      "modifier": "as a wedding planner"
+    },
+    {
+      "word": "statue",
+      "modifier": "going for a jog"
+    },
+    {
+      "word": "gate",
+      "modifier": "in a job interview"
+    },
+    {
+      "word": "fence",
+      "modifier": "doing standup"
+    },
+    {
+      "word": "window",
+      "modifier": "starting a business"
+    },
+    {
+      "word": "door",
+      "modifier": "having a midlife crisis"
+    },
+    {
+      "word": "roof",
+      "modifier": "lost in space"
+    },
+    {
+      "word": "stairs",
+      "modifier": "as a getaway driver"
+    },
+    {
+      "word": "elevator",
+      "modifier": "afraid of heights"
+    },
+    {
+      "word": "escalator",
+      "modifier": "doing yoga"
+    },
+    {
+      "word": "iron",
+      "modifier": "at a wedding"
+    },
+    {
+      "word": "needle",
+      "modifier": "winning a marathon"
+    },
+    {
+      "word": "thread",
+      "modifier": "in a court trial"
+    },
+    {
+      "word": "button",
+      "modifier": "in a fight"
+    },
+    {
+      "word": "zipper",
+      "modifier": "as a magician"
+    },
+    {
+      "word": "puppet",
+      "modifier": "as a CEO"
+    },
+    {
+      "word": "doll",
+      "modifier": "running a startup"
+    },
+    {
+      "word": "teddy",
+      "modifier": "as a bouncer",
+      "aliases": [
+        "teddy bear"
+      ]
+    },
+    {
+      "word": "marble",
+      "modifier": "in a marathon"
+    },
+    {
+      "word": "lego",
+      "modifier": "as a dietitian"
+    },
+    {
+      "word": "gas",
+      "modifier": "having a panic attack"
+    },
+    {
+      "word": "fuel",
+      "modifier": "as a babysitter"
+    },
+    {
+      "word": "trolley",
+      "modifier": "in space"
+    },
+    {
+      "word": "stroller",
+      "modifier": "as a Formula 1 car"
+    },
+    {
+      "word": "sword",
+      "modifier": "in a knitting circle"
+    },
+    {
+      "word": "shield",
+      "modifier": "as an accountant"
+    },
+    {
+      "word": "arrow",
+      "modifier": "doing yoga"
+    },
+    {
+      "word": "bow",
+      "modifier": "in love"
+    },
+    {
+      "word": "axe",
+      "modifier": "as a hairdresser"
+    },
+    {
+      "word": "spear",
+      "modifier": "as a librarian"
+    },
+    {
+      "word": "bomb",
+      "modifier": "at a relaxation seminar"
+    },
+    {
+      "word": "lantern",
+      "modifier": "afraid of the dark"
+    },
+    {
+      "word": "torch",
+      "modifier": "scared of fire"
+    },
+    {
+      "word": "matchstick",
+      "modifier": "in a swimming pool",
+      "aliases": [
+        "match stick",
+        "match"
+      ]
+    },
+    {
+      "word": "tagore",
+      "modifier": "as a rock star",
+      "aliases": [
+        "rabindranath",
+        "rabindranath tagore"
+      ]
+    },
+    {
+      "word": "satyajit",
+      "modifier": "as a comedian",
+      "aliases": [
+        "satyajit ray"
+      ]
+    },
+    {
+      "word": "nazrul",
+      "modifier": "in a heavy metal band"
+    },
+    {
+      "word": "mehendi",
+      "modifier": "in space"
+    },
+    {
+      "word": "tip",
+      "modifier": "as a karate master",
+      "aliases": [
+        "bindi"
+      ]
+    },
+    {
+      "word": "sindoor",
+      "modifier": "in a courtroom"
+    },
+    {
+      "word": "alta",
+      "modifier": "as a wedding crasher"
+    },
+    {
+      "word": "bridegroom",
+      "modifier": "in pajamas"
+    },
+    {
+      "word": "bride",
+      "modifier": "as a wrestler"
+    },
+    {
+      "word": "groom",
+      "modifier": "doing yoga"
+    },
+    {
+      "word": "cricketbat",
+      "modifier": "as a baseball player",
+      "aliases": [
+        "cricket bat"
+      ]
+    },
+    {
+      "word": "wicket",
+      "modifier": "in a marathon"
+    },
+    {
+      "word": "stumps",
+      "modifier": "running for office"
+    },
+    {
+      "word": "cinema",
+      "modifier": "afraid of popcorn"
+    },
+    {
+      "word": "tv",
+      "modifier": "going for a swim",
+      "aliases": [
+        "television"
+      ]
+    },
+    {
+      "word": "radio",
+      "modifier": "afraid of music"
+    },
+    {
+      "word": "dictionary",
+      "modifier": "as a stand-up comic"
+    },
+    {
+      "word": "newspaper",
+      "modifier": "in a sauna"
+    },
+    {
+      "word": "magazine",
+      "modifier": "having a panic attack"
+    },
+    {
+      "word": "ball",
+      "modifier": "afraid of rolling"
+    },
+    {
+      "word": "rubikscube",
+      "modifier": "as a tax accountant",
+      "aliases": [
+        "rubiks cube",
+        "rubik's cube",
+        "rubikcube"
+      ]
+    },
+    {
+      "word": "snowboard",
+      "modifier": "in the tropics"
+    },
+    {
+      "word": "ski",
+      "modifier": "as a desert guide"
+    },
+    {
+      "word": "drone",
+      "modifier": "afraid of heights"
+    },
+    {
+      "word": "selfie",
+      "modifier": "running for office"
+    },
+    {
+      "word": "pothole",
+      "modifier": "having a midlife crisis"
+    },
+    {
+      "word": "manhole",
+      "modifier": "as a yoga instructor"
+    },
+    {
+      "word": "trash",
+      "modifier": "in a beauty pageant",
+      "aliases": [
+        "garbage"
+      ]
+    },
+    {
+      "word": "dustbin",
+      "modifier": "in a wedding dress",
+      "aliases": [
+        "trashcan",
+        "trash can"
+      ]
+    },
+    {
+      "word": "wedding",
+      "modifier": "in a graveyard"
+    },
+    {
+      "word": "funeral",
+      "modifier": "as a party"
+    },
+    {
+      "word": "birthday",
+      "modifier": "in a workplace meeting"
+    },
+    { "word": "jhalmuri", "modifier": "in a boardroom", "aliases": ["jhal muri"] },
+    { "word": "chotpoti", "modifier": "doing taxes", "aliases": ["chatpati"] },
+    { "word": "singara", "modifier": "as a CEO", "aliases": ["shingara"] },
+    { "word": "beguni", "modifier": "running for office" },
+    { "word": "piyaju", "modifier": "in a music video", "aliases": ["piyaaju"] },
+    { "word": "chanachur", "modifier": "as a bouncer" },
+    { "word": "achaar", "modifier": "in love", "aliases": ["achar"] },
+    { "word": "vorta", "modifier": "doing yoga", "aliases": ["bhorta", "bharta"] },
+    { "word": "khichuri", "modifier": "in a wedding dress", "aliases": ["khichdi"] },
+    { "word": "tehari", "modifier": "in space", "aliases": ["tehri"] },
+    { "word": "polao", "modifier": "as a magician", "aliases": ["pulao", "pilaf"] },
+    { "word": "chingri", "modifier": "on a treadmill", "aliases": ["shrimp", "prawn"] },
+    { "word": "katla", "modifier": "as a wedding singer" },
+    { "word": "lau", "modifier": "doing karate", "aliases": ["bottle gourd"] },
+    { "word": "lassi", "modifier": "in jail" },
+    { "word": "falooda", "modifier": "as a stand-up comedian", "aliases": ["faluda"] },
+    { "word": "paan", "modifier": "as a soldier", "aliases": ["betel leaf"] },
+    { "word": "shalik", "modifier": "on a date", "aliases": ["mynah", "myna"] },
+    { "word": "tia", "modifier": "running a startup", "aliases": ["tiya", "parakeet"] },
+    { "word": "krishnachura", "modifier": "in a music video", "aliases": ["krishnochura"] },
+    { "word": "shapla", "modifier": "as a CEO", "aliases": ["water lily"] },
+    { "word": "neem", "modifier": "with a guitar" },
+    { "word": "chittagong", "modifier": "as a beach resort", "aliases": ["ctg"] },
+    { "word": "sylhet", "modifier": "in a tuxedo" },
+    { "word": "comilla", "modifier": "in a fish tank", "aliases": ["cumilla"] },
+    { "word": "taka", "modifier": "on vacation" },
+    { "word": "kabaddi", "modifier": "in a ballet recital" },
+    { "word": "hadudu", "modifier": "as a chess grandmaster" },
+    { "word": "kantha", "modifier": "in space", "aliases": ["nakshi kantha"] },
+    { "word": "jamdani", "modifier": "as a wrestler" },
+    { "word": "muslin", "modifier": "in a circus" },
+    { "word": "alpana", "modifier": "doing parkour", "aliases": ["alpona"] },
+    { "word": "dotara", "modifier": "in a court trial" },
+    { "word": "baul", "modifier": "in a board meeting" },
+    { "word": "bansuri", "modifier": "as a librarian", "aliases": ["bashi"] },
+    { "word": "nouka", "modifier": "on a desert", "aliases": ["dingi"] },
+    { "word": "lathi", "modifier": "as a magician", "aliases": ["lathi khela"] },
+    { "word": "agarbati", "modifier": "afraid of fire", "aliases": ["incense"] },
+    { "word": "kalshi", "modifier": "as a Formula 1 driver", "aliases": ["matka"] },
+    { "word": "jharu", "modifier": "running for office", "aliases": ["broom stick"] },
+    { "word": "tomtom", "modifier": "in a heavy metal band", "aliases": ["horse carriage"] }
   ]
 }
